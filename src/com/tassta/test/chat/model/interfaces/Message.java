@@ -1,4 +1,4 @@
-package com.tassta.test.chat;
+package com.tassta.test.chat.model.interfaces;
 
 import java.util.Date;
 

@@ -1,11 +1,11 @@
-package com.tassta.test.chat;
+package com.tassta.test.chat.model.interfaces;
 
 import javafx.collections.ObservableList;
 
 /**
  * User list model.
  */
-public interface UserListModel
+public interface UserList
 {
     ObservableList<User> getUserList();
 }
