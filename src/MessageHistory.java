@@ -1,6 +1,6 @@
-package com.tassta.test.chat;
+package sample;
 
-import com.tassta.test.chat.model.interfaces.Message;
+import sample.model.interfaces.Message;
 import javafx.collections.ObservableList;
 
 /**

@@ -1,8 +1,8 @@
-package com.tassta.test.chat.noimpl;
+package sample.noimpl;
 
-import com.tassta.test.chat.Message;
-import com.tassta.test.chat.User;
-import com.tassta.test.chat.UserStateChangeHandler;
+import sample.UserStateChangeHandler;
+import sample.model.interfaces.Message;
+import sample.model.interfaces.User;
 
 import java.util.function.Consumer;
 

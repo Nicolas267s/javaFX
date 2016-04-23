@@ -1,7 +1,7 @@
-package com.tassta.test.chat.model.impl;
+package sample.model.impl;
 
-import com.tassta.test.chat.model.interfaces.Message;
-import com.tassta.test.chat.model.interfaces.User;
+import sample.model.interfaces.Message;
+import sample.model.interfaces.User;
 
 import java.util.Date;
 

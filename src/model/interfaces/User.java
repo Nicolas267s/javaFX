@@ -1,4 +1,4 @@
-package com.tassta.test.chat.model.interfaces;
+package sample.model.interfaces;
 
 import javafx.scene.image.Image;
 

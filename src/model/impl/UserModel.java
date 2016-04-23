@@ -1,6 +1,6 @@
-package com.tassta.test.chat.model.impl;
+package sample.model.impl;
 
-import com.tassta.test.chat.model.interfaces.User;
+import sample.model.interfaces.User;
 import javafx.scene.image.Image;
 
 public class UserModel implements User {

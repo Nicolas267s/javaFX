@@ -1,6 +1,6 @@
-package com.tassta.test.chat;
+package sample;
 
-import com.tassta.test.chat.model.interfaces.User;
+import sample.model.interfaces.User;
 
 /**
  * Message history model.

@@ -1,7 +1,7 @@
-package com.tassta.test.chat.model.impl;
+package sample.model.impl;
 
-import com.tassta.test.chat.model.interfaces.User;
-import com.tassta.test.chat.model.interfaces.UserList;
+import sample.model.interfaces.User;
+import sample.model.interfaces.UserList;
 import javafx.collections.ObservableList;
 
 public class UserListModel implements UserList {

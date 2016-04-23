@@ -1,4 +1,6 @@
-package com.tassta.test.chat;
+package sample;
+
+import sample.model.interfaces.User;
 
 /**
  * Handles event of user's data change. For instance online state, name, etc.
